@@ -13,4 +13,3 @@ Aqui serão abordados os seguintes pontos:
 - Como funcionam as portas e serviços?
 - Enumerações: o que são e para que servem?
 
-Vamos abordar tudo isso neste repositório.
